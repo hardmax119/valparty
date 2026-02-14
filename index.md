@@ -110,13 +110,13 @@ layout: none
       { keys: ["chinyere", "chinyere dundee"], display: "Sister Chinyere Dundee", table: 6, couple: null },
   
       // Table 7
-      { keys: ["maxwell Ndugatuda"], display: "Brother Maxwell", table: 7, couple: "maxwell" },
-      { keys: ["Adati maxwell"], display: "Sister Maxwell", table: 7, couple: "maxwell" },
+      { keys: ["max", "maxwell ndugatuda"], display: "Brother Maxwell", table: 7, couple: "maxwell" },
+      { keys: ["adati", "adati maxwell"], display: "Sister Maxwell", table: 7, couple: "maxwell" },
       { keys: ["kenny", "kenny adunola"], display: "Brother Kenny Adunola", table: 7, couple: "adunola" },
       { keys: ["taiwo", "taiwo adunola"], display: "Sister Taiwo Adunola", table: 7, couple: "adunola" },
       { keys: ["daniel", "daniel ejembi"], display: "Brother Daniel Ejembi", table: 7, couple: "ejembi" },
       { keys: ["elizabeth", "elizabeth ejembi"], display: "Sister Elizabeth Ejembi", table: 7, couple: "ejembi" },
-      { keys: ["john-paul", "john paul akame"], display: "Brother John-Paul Akame", table: 7, couple: null },
+      { keys: ["jp", "john-paul", "john paul akame"], display: "Brother John-Paul Akame", table: 7, couple: null },
   
       // Table 8
       { keys: ["susuti"], display: "Deaconess Susuti", table: 8, couple: null },
