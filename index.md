@@ -53,8 +53,8 @@ layout: none
 <body>
 
   <div class="card">
-    <h1>Welcome To Our Valentine's Day Party 💘</h1>
-    <p>Enter your first name or full name</p>
+    <h1>Happy Valentine's Day 💘</h1>
+    <p>Enter your first name or full name to find your seat</p>
     <input id="name" placeholder="e.g. Tim or Tim Talabi" />
     <button onclick="findSeat()">Find My Table</button>
     <div class="result" id="result"></div>
