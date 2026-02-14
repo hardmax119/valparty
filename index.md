@@ -54,6 +54,7 @@ layout: none
 
   <div class="card">
     <h1>💘 Find Your Table</h1>
+    <h4> Welcome 💘 to WCI-Dundee Valentine's Day Party Night</h4>
     <p>Enter your first name or full name</p>
     <input id="name" placeholder="e.g. Tim or Tim Talabi" />
     <button onclick="findSeat()">Find My Table</button>
@@ -99,8 +100,8 @@ layout: none
       { keys: ["roland", "roland adebanwo"], display: "Brother Roland Adebanwo", table: 5, couple: "adebanwo" },
       { keys: ["folake", "folake adewummi"], display: "Sister Folake Adewummi", table: 5, couple: "adewunmi" },
       { keys: ["samson", "samson adewunmi"], display: "Brother Samson Adewunmi", table: 5, couple: "adewunmi" },
-      { keys: ["tope", "tope stark"], display: "Sister Tope Stark", table: 5, couple: null },
-      { keys: ["stark", "mr stark"], display: "Mr Stark", table: 5, couple: null },
+      { keys: ["tope", "tope stark"], display: "Sister Tope Stark", table: 5, couple: "stark" },
+      { keys: ["stark", "mr stark"], display: "Mr Stark", table: 5, couple: "stark" },
   
       // Table 6
       { keys: ["ricky"], display: "Brother Ricky", table: 6, couple: null },
@@ -110,8 +111,8 @@ layout: none
       { keys: ["chinyere", "chinyere dundee"], display: "Sister Chinyere Dundee", table: 6, couple: null },
   
       // Table 7
-      { keys: ["maxwell"], display: "Brother Maxwell", table: 7, couple: "maxwell" },
-      { keys: ["sister maxwell"], display: "Sister Maxwell", table: 7, couple: "maxwell" },
+      { keys: ["maxwell Ndugatuda"], display: "Brother Maxwell", table: 7, couple: "maxwell" },
+      { keys: ["Adati maxwell"], display: "Sister Maxwell", table: 7, couple: "maxwell" },
       { keys: ["kenny", "kenny adunola"], display: "Brother Kenny Adunola", table: 7, couple: "adunola" },
       { keys: ["taiwo", "taiwo adunola"], display: "Sister Taiwo Adunola", table: 7, couple: "adunola" },
       { keys: ["daniel", "daniel ejembi"], display: "Brother Daniel Ejembi", table: 7, couple: "ejembi" },
@@ -128,7 +129,7 @@ layout: none
   
       // Table 9
       { keys: ["blessing", "blessing omokri"], display: "Sister Blessing Omokri", table: 9, couple: "blessing-omokri" },
-      { keys: ["blessings husband"], display: "Blessing’s Husband", table: 9, couple: "blessing-omokri" },
+      { keys: ["omokri"], display: "Brother Omokri", table: 9, couple: "blessing-omokri" },
       { keys: ["sandra", "sandra oni"], display: "Sister Sandra Oni", table: 9, couple: "oni" },
       { keys: ["oni"], display: "Brother Oni", table: 9, couple: "oni" },
   
